@@ -1,0 +1,3 @@
+- Plugins do VS Code
+- zsh
+- MySQL Workbanch
