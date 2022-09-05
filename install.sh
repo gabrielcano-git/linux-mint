@@ -61,7 +61,8 @@ sudo snap install keepassxc
 sudo snap install twinux
 sudo snap install whatsdesk
 sudo snap install lotion
-sudo snap install mysql-workbench-community
+sudo snap install todoist
+sudo snap install termius-app
 
 
 # Docker Configs
